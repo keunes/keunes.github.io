@@ -96,7 +96,7 @@ permalink: /blog/:year/:month/:title
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /projects/:title
 
 ### Defaults for collections ###
 defaults:

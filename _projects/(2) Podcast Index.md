@@ -4,6 +4,8 @@ tags: [GitHub, Jitsi, Mastodon]
 image: ../assets/images/projects_PodcastIndex.png
 description: This initiative encourages developers, podcasters and hosters to innovate the podcasting industry with a freely available Index and a community-driven Podcast Namespace.
 #external_url: https://www.podcastindex.org
+#permalink: /projects/podcasting_2-0
+slug: podcasting_20
 ---
 
 # Podcasting 2.0

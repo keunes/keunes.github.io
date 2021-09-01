@@ -4,7 +4,7 @@ tags: [We'll see]
 image: ../assets/images/projects_WeRoar.png
 description: So far just reality in my mind, it is an idea to bring different open source projects in the audio realm together.
 #external_url: https://www.weroar.dev
-#permalink:/WeRoar
+slug: WeRoar
 ---
 
 # We Roar
