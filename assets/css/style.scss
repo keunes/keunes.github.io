@@ -1,0 +1,24 @@
+---
+---
+@import "portfolYOU";
+ul.task-list {
+  padding-left: 0.5rem;
+  list-style: none;
+}
+
+input.task-list-item-checkbox {
+  margin-right: 0.5rem;
+}
+
+.mt-5, .my-5 {
+  margin-top: 2rem !important;
+}
+
+#attribution {
+  writing-mode: inherit;
+  transform: inherit;
+  position: inherit;
+  bottom: inherit;
+  right: inherit;
+  opacity: inherit;
+}
